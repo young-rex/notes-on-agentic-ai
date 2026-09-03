@@ -1,5 +1,7 @@
 # Exposed Concurrency: A Standing Obligation, Not Just a Hiring Requirement
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gzSsKrsG>*
+
 I read two job postings from the same employer. Together they paired a parenthetical mention of the Java memory model and concurrency performance with a must-have for highly concurrent, data-intensive software involving throughput, backpressure, and batching.
 
 From outside I could not tell how broadly that depth was expected. The postings said "highly concurrent," which is the phrase everyone reaches for. It is also the phrase that hides the question I care about.

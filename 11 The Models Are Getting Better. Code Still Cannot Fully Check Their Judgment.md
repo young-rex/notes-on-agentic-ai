@@ -1,5 +1,7 @@
 # The Models Are Getting Better. Code Still Cannot Fully Check Their Judgment.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gQqVvCsF>*
+
 The last post reached a technical conclusion: the two stacks rest on different foundations — one on specification, one on judgment. Different foundations produce different stacks, and different stacks do not interoperate naturally. Code on the CPU stack cannot reach inside the LLM stack and check whether a judgment was right.
 
 The enterprise question is direct — can vendors make that edge consumable? Can they make what crosses from the LLM stack to the CPU stack something code can verify?

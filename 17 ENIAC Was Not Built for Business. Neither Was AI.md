@@ -1,5 +1,7 @@
 ENIAC Was Not Built for Business. Neither Was AI.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gDV6yZsz>*
+
 ENIAC was built for ballistic calculations, not for enterprise. Modern generative AI did not begin as enterprise software either. Yet each, within years of being born, was applied to business — not as a secondary adaptation but as a primary use case.
 
 In 1947, two managers from J. Lyons and Co., a British catering company, visited the United States and met Herman Goldstine, one of the developers of ENIAC. They didn't see a scientific tool that might someday serve business. They saw a machine that could run their company. Back in England, they connected with Maurice Wilkes at Cambridge, who was building EDSAC. On that design, Lyons built its own computer. By 1951, LEO — the Lyons Electronic Office — ran its first business application: computing bakery costs that clerks had calculated by hand.

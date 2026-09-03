@@ -1,5 +1,7 @@
 # Calibrate: Where Does the Capability Live?
 
+*Originally published on LinkedIn: <https://lnkd.in/p/g7Es6PC3>*
+
 The previous post mapped agentic AI as a five-phase arc — from model capability through action capability, agency, and connectivity, to harness engineering. That tells you when the dominant problem changed. It does not tell you where the capability actually lives.
 
 That is a more useful question for anyone deciding what to build, what to adopt, and what to leave alone.

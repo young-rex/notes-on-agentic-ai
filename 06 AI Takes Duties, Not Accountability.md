@@ -1,5 +1,7 @@
 # AI Takes Duties, Not Accountability
 
+*Originally published on LinkedIn: <https://lnkd.in/p/g83-xYpn>*
+
 ## The single fact
 
 Every organization runs on a quiet assumption we never had to say out loud: the worker you supervise is also, in part, accountable. Editors and writers. Managers and direct reports. Contractors and subcontractors. In every prior arrangement, the one doing the work could hold a share of the answer.

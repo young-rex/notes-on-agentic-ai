@@ -1,5 +1,7 @@
 # The CPU Stack Runs on Specification. The LLM Stack Runs on Judgment.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/ga3apNfd>*
+
 The previous post argued that when a stack is young, old problems get new names — and that recognizing a development arc does not tell you the arc ends in the same place. This post asks what made the first arc possible and why the same foundation does not carry the second.
 
 ## The chain that built the first stack

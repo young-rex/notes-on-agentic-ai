@@ -1,5 +1,7 @@
 # Write Software That Uses Agentic AI
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gmh8qr5J>*
+
 Generative AI got serious the moment it started writing code. Skip past the early stages — autocomplete, then "vibe coding" — because the interesting shift came after.
 
 Everyone is on one path: *using AI to write software.* It's crowded and getting more so. But there's a second door far fewer people walk through — **writing software that uses agentic AI.** Not using the AI to produce your code, but building a system in which the AI is a running component. Those are different jobs, and the second is much harder than it looks.

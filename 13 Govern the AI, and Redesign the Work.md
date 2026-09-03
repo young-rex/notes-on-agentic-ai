@@ -1,5 +1,7 @@
 # Govern the AI, and Redesign the Work
 
+*Originally published on LinkedIn: <https://lnkd.in/p/g-uNHNR7>*
+
 The last post closed a question. The enterprise chose speed. Speed made per-output human review impossible. The judgment that code cannot check and humans can no longer review needs an owner — and that owner is the enterprise that chose speed.
 
 Now what?

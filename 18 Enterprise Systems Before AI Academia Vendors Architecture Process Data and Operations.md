@@ -1,5 +1,7 @@
 # Enterprise Systems Before AI: Academia, Vendors, Architecture, Process, Data, and Operations
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gPgiypEM>*
+
 The previous post used the ENIAC/LEO history to make a simple point: AI, like computing before it, is being pulled quickly into business use.
 
 But AI enters a very different enterprise from the one LEO entered. It arrives after seventy-five years of enterprise computing, into a landscape already filled with systems, categories, owners, and seams.

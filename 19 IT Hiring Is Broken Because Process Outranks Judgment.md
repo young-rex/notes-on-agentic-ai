@@ -1,5 +1,7 @@
 # IT Hiring Is Broken Because Process Outranks Judgment
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gz6Khivv>*
+
 Five posts crossed my feed in about a week. All from different people. All about the same thing.
 
 | Who | What they said | Likes &#124; Comments |

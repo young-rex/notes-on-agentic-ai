@@ -1,5 +1,7 @@
 # When AI Splits the Duties, Redraw the Business Process
 
+*Originally published on LinkedIn: <https://lnkd.in/p/g9UUxGaM>*
+
 In the previous post, I argued that a role is a bundle of duties. The role is the unit to decompose; duties are the unit to allocate between people and AI.
 
 But transformation cannot stop at the boundary of an individual role. Roles do not operate alone.

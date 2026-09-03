@@ -1,5 +1,7 @@
 # Knowing Every Layer Is the Job. Building Every Layer Is Not.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gReNQhZ2>*
+
 The last post put the LLM in the processor slot and asked what has grown around it. The answer was: a stack that remains early and unsettled. Six rungs the CPU stack climbed over decades — portable languages, paradigms, the split between systems and application programming, information systems as its own discipline, methodology, execution models — and the LLM is on the first one, barely.
 
 That was the diagnosis. Here is the response, stated before the argument for it: an enterprise cannot wait for the stack to settle, and it should not try to build every missing layer itself.

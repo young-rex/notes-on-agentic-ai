@@ -1,5 +1,7 @@
 # When a Stack Is Young, Old Problems Get New Names
 
+*Originally published on LinkedIn: <https://lnkd.in/p/geCqmmfe>*
+
 Agentic AI keeps producing engineering terms.
 
 Context engineering. Loop engineering. Graph engineering.

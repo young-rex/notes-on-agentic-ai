@@ -1,5 +1,7 @@
 # Does Software Ever Need to Call an Agent?
 
+*Originally published on LinkedIn: <https://lnkd.in/p/g822ukCZ>*
+
 The last post ended with a question: where does traditional software genuinely need to call an agent, wait for its semantic judgment, and use that judgment to perform its own business function?
 
 The question deserves a serious answer, because it decides something practical: how much of the agent story belongs *in the core* of an enterprise's systems, and how much belongs *around* it. But before the question can be answered, we need to see where reality actually sits.

@@ -1,5 +1,7 @@
 # We Built the World Around the CPU. We Are Doing It Again Around the LLM.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gZ4QkT-Z>*
+
 Three years ago Beren Millidge put the LLM in the processor slot: the model is the processor, the context window is RAM [1]. I am not borrowing that as a figure of speech. The fit holds at the processor, at the stack that grows around it, and — most of all — at the arc that growth follows over decades.
 
 We have built the world around a processor once already — the software layers themselves, the ways of thinking that came with them, and the professions and ways of working that grew up around both. All of it took decades. We are doing it again, from the start, for a processor that handles a different kind of data. But not on empty ground.

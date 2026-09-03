@@ -1,5 +1,7 @@
 # Calibrate: Choose a Model for Enterprise Refund Decisions
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gk_7yGX5>*
+
 Take one feature an enterprise might build, identify the mechanisms it requires, locate each one, and see what the locations tell you about choosing a model.
 
 Post 14 mapped agentic AI as a five-phase arc. Post 15 asked the more useful question: where does each capability live — in the model's weights, the harness around it, or both? That produced a broad table and a principle: put judgment in the weights, put guarantees in the harness. But the table was broad, not directed. This post directs it — a worked reading of Post 15's map against a single enterprise feature.

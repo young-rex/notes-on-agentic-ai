@@ -1,5 +1,7 @@
 # AI Took Programming, Not Engineering. Will It Do the Same to Other Roles?
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gz73NR4J>*
+
 The first three posts used a code-versus-agent design lens: who calls whom, who owns the control loop, who waits, who consumes semantic judgment, and what limits a wrong decision.
 
 That lens helps rule arrangements in or out. But it also exposes the other side: some are already doing real work.

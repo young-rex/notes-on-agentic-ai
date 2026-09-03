@@ -1,5 +1,7 @@
 ## Agents Break Open Software's Stable Relationship
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gVtniMsP>*
+
 Software has changed constantly, but one relationship underneath it remained remarkably stable.
 
 Humans expressed intent through code. CPUs executed that code.

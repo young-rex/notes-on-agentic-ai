@@ -1,5 +1,7 @@
 # Some Work Can Be Spelled Out. The Rest Has to Be Trusted to Someone.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gUrzSnVc>*
+
 Friends asked why I wrote about IT hiring when this series is about agentic AI and enterprise AI transformation. Fair question. That post does not mention agents, models, or transformation. That was deliberate. But I never said so, and this article is the explanation I owe.
 
 ## The question every post asks: the work, and who holds it

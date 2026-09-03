@@ -1,5 +1,7 @@
 # Agentic AI Moves Too Fast. Calibrate.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gGShbrY4>*
+
 I follow the agentic AI movement closely. I still get confused — and some of what I learned with effort is already obsolete.
 
 Terms shift meaning between weeks. A concept that was a research paper in March is a product feature in May and a deprecated approach by July. Everyone with a GitHub repository claims to have built a framework, a harness, an agent runtime. The cost is not only confusion despite attention. It is time spent learning things that did not last.

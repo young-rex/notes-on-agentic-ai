@@ -1,5 +1,7 @@
 # The Enterprise Chose Speed. Own the Burden.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gsv6FUFr>*
+
 Post 11 showed that code can check what crosses the edge between the two stacks — the shape, the schema, the format. It cannot check the judgment inside. That judgment used to be a human's. The enterprise offloaded it to AI.
 
 When it is wrong, who answers for it?
