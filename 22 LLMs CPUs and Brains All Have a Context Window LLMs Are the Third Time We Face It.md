@@ -1,5 +1,7 @@
 # LLMs, CPUs, and Brains All Have a Context Window. LLMs Are the Third Time We Face It.
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gRTeyzey>*
+
 An earlier post in this series argued that the CPU stack and the LLM stack rest on different foundations — specification in one case, judgment in the other. But different foundations are not new to us. We have already developed two stacks — one around CPUs, one around human cognition — that rest on different foundations. What connects them is not the foundation. It is a constraint they share.
 
 The constraint is straightforward: each system can only work with a bounded amount of information at a time. Everyone building with LLMs knows the term for it. What is less obvious is that CPUs and brains have their own version of it — and that people have been developing disciplines around this constraint for decades.
