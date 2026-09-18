@@ -1,5 +1,7 @@
 **Should Java concurrency stay a coding problem, or become an architecture decision?**
 
+*Originally published on LinkedIn: <https://lnkd.in/p/gt9SFt3J>*
+
 Java, C++, C#, Kotlin, Scala, Python, Ruby, Objective-C, and pre-actor Swift all support OOP with **shared-memory threading**: a method call runs the callee on the caller's thread over one shared heap, so any thread that reaches a mutable object can run it. Keeping that safe rests on assumptions that **every future developer** inherits.
 
 These four posts trace the maintenance burden, demonstrate an alternative, explain why it works, and examine its limits:
