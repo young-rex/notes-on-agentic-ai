@@ -1,6 +1,6 @@
 AI Coding Has Two Sides. Ours Is Too Big for One Post.
 
-*Originally published on LinkedIn: <https://lnkd.in/p/guaT7Qad>*
+*Originally published on LinkedIn: <https://lnkd.in/p/gpS8XrPn>*
 
 Post 30 covered their side of AI coding: what model labs and agent builders built into the models and agents we use. It ended by promising that the next article would cover our side: how we handle requirements, context, acceptance criteria, and operating outcomes.
 
