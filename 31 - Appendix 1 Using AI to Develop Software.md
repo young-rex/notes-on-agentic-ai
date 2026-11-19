@@ -1,9 +1,6 @@
 # Using AI to Develop Software: Adoption, Practices, and Evidence (Research Findings)
 
-- **Date:** September 30, 2026
-- **Appendix 1 to:** Post 31, "AI Coding Has Two Sides. Ours Is Too Big for One Post." (Notes on Agentic AI)
-- **Author:** Rex Young
-- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**Appendix 1 to:** Post 31. "AI Coding Has Two Sides. Ours Is Too Big for One Post."
 
 ## Scope and method
 
